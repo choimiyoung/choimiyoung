@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MiYoung's%20GitHub%20&fontSize=90)
-</div>
+
 
 
 
