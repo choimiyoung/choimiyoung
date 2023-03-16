@@ -78,7 +78,6 @@ not easy but worth it meaning
 <br>
 <div align="center">
     
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=pgmjun&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
+![Miyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimiyoung&show_icons=true&theme=radical)
     
 </div>
