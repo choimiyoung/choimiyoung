@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 안녕하세요😄<br>
 백앤드 개발자 최미영입니다! <br>
 Wide&Deep 넓고,깊게 사고 합니다.<br>
-저는 "victory belongs to the most persevering"이 말을 믿습니다!<br>
-not easy but worth it meaning
+!<br>
+
 </p>
 <br>
 <p align="center">
