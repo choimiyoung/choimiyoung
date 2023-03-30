@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 안녕하세요😄<br>
 백앤드 개발자 최미영입니다! <br>
 Wide&Deep 넓고,깊게 사고 합니다.<br>
-!<br>
+<br>
 
 </p>
 <br>
